@@ -45,14 +45,14 @@ To ensure high performance and prevent blocking the main loop, the ESP32 impleme
 
 Below are PulseView logic analyzer screenshots validating the custom protocol's timing and handshake sequences across various baud rates. 
 
-| Baud Rate | Capture 1 | Capture 2 |
-| :--- | :--- | :--- |
-| **9600** | ![9600 Baud](9600.png) | ![9600 Baud alt](9600_2.png) |
-| **19200** | *N/A* | ![19200 Baud](19200.png) |
-| **38400** | ![38400 Baud](38400.png) | ![38400 Baud alt](38400_2.png) |
-| **57600** | ![57600 Baud](57600.png) | ![57600 Baud alt](57600_2.png) |
-| **115200** | ![115200 Baud](115200.png) | ![115200 Baud alt](115200_2.png) |
+| Baud Rate | Capture 1 |
+| :--- | :--- |
+| **9600** | ![9600 Baud](9600.png) |
+| **19200** | ![19200 Baud](19200.png) |
+| **38400** | ![38400 Baud](38400.png) |
+| **57600** | ![57600 Baud](57600.png) |
+| **115200** | ![115200 Baud](115200.png) |
 
 ---
 
-*Author: Prem Kumar Sivanainthaperumal*
+*Author: Prem Kumar S*
